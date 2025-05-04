@@ -2,8 +2,7 @@
 
 This project focuses on detection of objects with pretrainted YOLO V11 model and uses Depth Pro for distance estimation to detected objects.  
 
-![](data\annotated_output_bottles.jpg)
-
+![](data/annotated_output_bottles.jpg)
 
 
 
